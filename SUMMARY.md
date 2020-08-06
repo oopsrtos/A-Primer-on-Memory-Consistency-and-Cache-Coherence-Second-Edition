@@ -1,6 +1,6 @@
 # Summary
 
-* [介绍](README.md)
+* [封面](contens/封面.md)
 * [1 一致性和连续性介绍](contens/一致性和连续性介绍.md)
   * [1.1 内存一致性](contens/内存一致性.md)
   * [1.2 缓存一致性](contens/缓存一致性.md)
